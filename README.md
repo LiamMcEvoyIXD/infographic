@@ -1,3 +1,3 @@
 # infographic
 
-- [Liam McEvoy](https://liammcevoyixd.github.io/infographic/infographic.png)
+- [infographic](https://liammcevoyixd.github.io/infographic/infographic.png)
